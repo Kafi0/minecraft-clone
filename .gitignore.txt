@@ -1,8 +1,0 @@
-# Binaries folder
-bin/
-
-# Libraries
-*.lib
-
-# Executables
-*.exe
