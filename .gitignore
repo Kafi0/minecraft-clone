@@ -1,8 +1,27 @@
 # Binaries folder
 bin/
 
-# Libraries
+# Compiled Object Files
+*.o
+
+# Compiled Dynamic Libraries
+*.dll
+
+# Compiled Static Libraries
 *.lib
+*.a
 
 # Executables
 *.exe
+*.out
+
+# Visual Studio Code
+.vscode/*
+
+# Cmake files
+CMakeFiles
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+mingw.cmake
+
